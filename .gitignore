@@ -1,0 +1,6 @@
+shellforge
+*.o
+*.out
+*.txt
+core
+core.*
